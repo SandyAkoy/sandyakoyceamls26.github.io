@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like reading"
 
 linkedin: https://www.linkedin.com/in/sandy-akoy
-image: /assets/images/profile.svg
+image: /assets/images/IMG_1378.JPG
 
 # A "Currently" block — three short status lines for the home page.
 currently:
