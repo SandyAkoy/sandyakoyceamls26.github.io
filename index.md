@@ -1,26 +1,26 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Sandy Akoy                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Be curious, not judgemental."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Junior, Management Information Systems"
+  - "🔬 Interested in Data Analytics"
+  - "📍 Based in Houston, TX"
+  - "🚀 I like reading"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/sandy-akoy
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
-  - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
-  - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+  - label: Favorite Novel
+    text: "The Fire Next Time — James Baldwin"
+  - label: Favorite Movie
+    text: "Black Panther"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "What my next hairstyle will be"
 ---
