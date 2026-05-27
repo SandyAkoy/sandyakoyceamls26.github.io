@@ -4,10 +4,10 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Sandy Akoy
+  role: Junior, Management Information Systems 
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/sandy-akoy
   bio: |
     Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
