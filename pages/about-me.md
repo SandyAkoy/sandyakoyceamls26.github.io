@@ -6,28 +6,27 @@ permalink: /about-me.html
 about:
   name: Sandy Akoy
   role: Junior, Management Information Systems 
-  image: /assets/images/profile.svg
+  image: /assets/images
   linkedin: https://www.linkedin.com/in/sandy-akoy
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Sandy, a Management Information Systems student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
+    My research interests sit at the intersection of artificial intelligence and applied
     machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    accessible and adaptive for everyone.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me reading, volunteering, or trying new things.
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+      title: Artist
+      description: I write poems and illustrate art in my spare time.
     - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+      title: Gym
+      description: Weekend/ Weekdays how I reset.
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: Noveles and poems equally inspiring.
 
   gallery:
     - image: /assets/images/gallery-1.svg
