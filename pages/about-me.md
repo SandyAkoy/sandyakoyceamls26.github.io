@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Sandy Akoy
   role: Junior, Management Information Systems 
-  image: /assets/images
+  image: /assets/images/IMG_1378.JPG
   linkedin: https://www.linkedin.com/in/sandy-akoy
   bio: |
     Hi! I'm Sandy, a Management Information Systems student in the CEAMLS SAIRI Summer Research program.
