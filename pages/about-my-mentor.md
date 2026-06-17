@@ -4,27 +4,26 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Farouk Ganiyu-Adewumi
+  title: Doctorate, Advanced Computer Science
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website:  https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+  
+    Farouk is a second year Graduate Mentor, and a graduate from Morgan State University that majored in Advanced Computer Science, and was previously part of many research programs.
+   
+    Outside of research, Farouk is not a schoolaholic. He likes to build lego sets, watch tv/movies (really enjoyes going to the movie theatre), working out. He also enjoys to read book in drama, thriller, and being shocked at the ending.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Timothy Oladunni
   title: Associate Professor, School of Engineering
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: 
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+  
+    Dr. Oladunni 
 
     Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
     participation in computing.
