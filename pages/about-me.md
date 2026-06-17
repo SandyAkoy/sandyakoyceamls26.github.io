@@ -34,8 +34,8 @@ about:
     - image: assets/IMG_2591.jpeg
       caption: One of my favorite illustrations.
     - image: assets/images/IMG_2593.jpeg
-      caption: My all time favorite writer. 
+      
 
     
-      caption: Hanging out with friends after class.
+      caption: My all time favorite writer. 
 ---
