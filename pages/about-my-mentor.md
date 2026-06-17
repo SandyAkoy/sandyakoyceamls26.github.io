@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Farouk Ganiyu-Adewumi
   title: Doctorate, Advanced Computer Science
-  image: /assets/images/graduate-student-mentor.svg
+  image: 
   website:  https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
   bio: |
   
