@@ -30,9 +30,12 @@ about:
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+      caption: A great impression of me. 
     - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+      caption: One of my favorite illustrations.
     - image: /assets/images/gallery-3.svg
+      caption: My all time favorite writer. 
+
+    
       caption: Hanging out with friends after class.
 ---
