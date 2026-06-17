@@ -23,10 +23,10 @@ about:
       description: I write poems and illustrate art in my spare time.
     - icon: 🚲
       title: Gym
-      description: Weekend/ Weekdays how I reset.
+      description: I go on the weekend and weekdays to reset.
     - icon: 📚
       title: Reading
-      description: Noveles and poems equally inspiring.
+      description: Expands my intellect daily.
 
   gallery:
     - image: /assets/images/gallery-1.svg
