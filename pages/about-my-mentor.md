@@ -19,7 +19,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Timothy Oladunni
   title: Assistant Professor, Department of Computer Science 
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/IMG_2596.jpeg
   website: https://ieeexplore.ieee.org/abstract/document/11239065
 
   bio: |
