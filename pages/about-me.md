@@ -33,7 +33,7 @@ about:
       caption: A great impression of me. 
     - image: assets/IMG_2591.jpeg
       caption: One of my favorite illustrations.
-    - image: /assets/images/gallery-3.svg
+    - image: assets/images/IMG_2593.jpeg
       caption: My all time favorite writer. 
 
     
