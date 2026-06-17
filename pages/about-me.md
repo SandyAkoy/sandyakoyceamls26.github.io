@@ -29,7 +29,7 @@ about:
       description: Expands my intellect daily.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: assets/IMG_2591.jpeg
       caption: A great impression of me. 
     - image: /assets/images/gallery-2.svg
       caption: One of my favorite illustrations.
