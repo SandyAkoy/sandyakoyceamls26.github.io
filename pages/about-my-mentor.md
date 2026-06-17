@@ -18,13 +18,14 @@ graduate_mentor:
 
 faculty_mentor:
   name: Dr. Timothy Oladunni
-  title: Associate Professor, School of Engineering
+  title: Assistant Professor, Department of Computer Science 
   image: /assets/images/faculty-mentor.svg
-  website: 
+  website: https://ieeexplore.ieee.org/abstract/document/11239065
+
   bio: |
   
-    Dr. Oladunni 
+    Dr. Oladunni is a Computer Scienc Professor and biomedical AI researcher who spans multimodal ECG analytics, generative modeling, explainable machine learning, and computational epidemiology. 
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
+    Dr. Oladunni has develop deployable prototypes, such as mobile ECG anomaly-detection tools designed for urban and underserved communities. His work has leveraged deep learning, sentiment modeling, and large-scale text analytics for studies. 
     participation in computing.
 ---
