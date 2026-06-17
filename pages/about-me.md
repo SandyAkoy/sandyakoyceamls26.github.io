@@ -29,9 +29,9 @@ about:
       description: Expands my intellect daily.
 
   gallery:
-    - image: assets/IMG_2591.jpeg
+    - image: assets/images/IMG_2594.jpeg
       caption: A great impression of me. 
-    - image: /assets/images/gallery-2.svg
+    - image: assets/IMG_2591.jpeg
       caption: One of my favorite illustrations.
     - image: /assets/images/gallery-3.svg
       caption: My all time favorite writer. 
