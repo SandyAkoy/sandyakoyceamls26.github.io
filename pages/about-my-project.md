@@ -11,7 +11,6 @@ problem: |
 
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
   
   - Develop a functional AI model forpredicting cardiovascular disease using ECG signals. 
   - Prepare and preprocess ECGdatasets for machine learning analysis.
