@@ -12,9 +12,9 @@ problem: |
 
 approach: |
   
-  - Develop a functional AI model forpredicting cardiovascular disease using ECG signals. 
-  - Prepare and preprocess ECGdatasets for machine learning analysis.
-  - Analyze and interpret the resultsproduced by the AI model.
+  - Develop a functional AI model for predicting cardiovascular disease using ECG signals. 
+  - Prepare and preprocess ECG datasets for machine learning analysis.
+  - Analyze and interpret the results produced by the AI model.
   - Document the project and present findings clearly. 
 
  
