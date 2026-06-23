@@ -24,7 +24,7 @@ faculty_mentor:
 
   bio: |
   
-    Dr. Oladunni is a Computer Scienc Professor and biomedical AI researcher who spans multimodal ECG analytics, generative modeling, explainable machine learning, and computational epidemiology. 
+    Dr. Oladunni is a Computer Science Professor and biomedical AI researcher who spans multimodal ECG analytics, generative modeling, explainable machine learning, and computational epidemiology. 
 
     Dr. Oladunni has develop deployable prototypes, such as mobile ECG anomaly-detection tools designed for urban and underserved communities. His work has leveraged deep learning, sentiment modeling, and large-scale text analytics for studies. Fun Fact he doesn't watch TV *only soccer*
 ---
